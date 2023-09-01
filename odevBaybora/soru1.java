@@ -1,0 +1,7 @@
+public class soru1 {
+
+
+
+>
+
+}
